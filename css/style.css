@@ -1,0 +1,10 @@
+html, table.body, table.container {
+  background: #d9d9d6; }
+
+td.columns, td.column, th.columns, th.column {
+  padding-left: 0;
+  padding-bottom: 0; }
+
+table.body .columns, table.body .column {
+  padding-left: 0 !important;
+  padding-right: 0 !important; }
